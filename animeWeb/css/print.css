@@ -1,0 +1,13 @@
+@media print{
+    body *{
+        visibility: hidden;
+    }
+    .container-fluid, .container-fluid *{
+            visibility: visible;
+    }
+    .container-fluid {
+        position: absolute;
+        left: 0;
+        top: 0;
+    }
+}

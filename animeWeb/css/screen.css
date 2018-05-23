@@ -1,0 +1,21 @@
+@media screen and (max-width: 1920px) {
+    p{
+        font-size: 35px;
+    }
+}
+@media screen and (max-width: 1024px) {
+    p{
+        font-size: 25px;
+    }
+    h1{
+        font-size: 35px;
+    }
+}
+@media screen and (max-width: 411px) {
+    h1{
+        font-size: 25px;
+    }
+    p{
+        font-size: 15px;
+    }
+}
